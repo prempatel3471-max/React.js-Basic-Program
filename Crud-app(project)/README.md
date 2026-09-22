@@ -2,11 +2,6 @@
 
 A simple CRUD (Create, Read, Update, Delete) application built using React.js.
 
-## 🎥 Project Demo
-
-Watch the complete project demonstration:
-
-[▶️ Watch CRUD Application Demo](https://drive.google.com/file/d/1fTdRzmh2Il_I7KqY5sriZ2tWQ8E79R9G/view?usp=drive_link)
 
 ## 🚀 Features
 
